@@ -30,6 +30,7 @@ Explore our diverse range of client websites, landing pages, and functional web 
 | 7 | **The Fifth Sip** | [thefifthsip.beyondwebco.com](https://thefifthsip.beyondwebco.com/) | Cafe / Coffee Shop Website |
 | 8 | **Travel Agency** | [travel-agency-2-sandy.vercel.app](https://travel-agency-2-sandy.vercel.app/#home) | Travel Agency Website |
 | 9 | **RoadVista Travels** | [roadvista.beyondwebco.com](https://roadvista.beyondwebco.com/) | Premium Travel Agency Website |
+| 10 | **Voyara** | [voyara.beyondwebco.com](http://voyara.beyondwebco.com/) | Premium Travel Agency Website |
 
 ---
 
