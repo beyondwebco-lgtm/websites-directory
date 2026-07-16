@@ -12,6 +12,7 @@ These websites feature cutting-edge 3D designs, animations, and highly interacti
 | **Luxstep AI** | [luxstep-ai.vercel.app](https://luxstep-ai.vercel.app/) | Interactive 3D web application. |
 | **Volta** | [volta.beyondwebco.com](https://volta.beyondwebco.com/) | Immersive 3D interactive experience. |
 | **Soda Limes** | [soda-limes.vercel.app](https://soda-limes.vercel.app/) | Creative 3D-infused product showcase. |
+| **Aesthetic Magazine** | [aesthetic-magazine.vercel.app](https://aesthetic-magazine.vercel.app/) | Photo Magazine (International Client). |
 
 ---
 
@@ -23,9 +24,11 @@ Explore our diverse range of client websites, landing pages, and functional web 
 | 1 | **Beyond Webco (Official)** | [beyondwebco.com](https://www.beyondwebco.com/) | Corporate Agency Portfolio |
 | 2 | **Sri Lakshmi Automobiles** | [sri-lakshmi-automobiles.vercel.app](https://sri-lakshmi-automobiles.vercel.app/) | Automotive Business Website |
 | 3 | **Italia Chi** | [italia-chi.vercel.app](https://italia-chi.vercel.app/) | Premium Restaurant / Landing Page |
-| 4 | **Pavani Studios** | [pavanistudios.shop](https://pavanistudios.shop/) | E-commerce Store |
+| 4 | **Pavani Studios** | [pavanistudios.shop](https://pavanistudios.shop/) | Photography Services |
 | 5 | **Vega Towers** | [vega-towers.vercel.app](https://vega-towers.vercel.app/) | Real Estate / Towers |
 | 6 | **Woodvilla Furniture** | [woodvillafurniture.co.in](https://woodvillafurniture.co.in/) | Custom Furniture Showcase |
+| 7 | **The Fifth Sip** | [thefifthsip.beyondwebco.com](https://thefifthsip.beyondwebco.com/) | Cafe / Coffee Shop Website |
+| 8 | **Travel Agency** | [travel-agency-2-sandy.vercel.app](https://travel-agency-2-sandy.vercel.app/#home) | Travel Agency Website |
 
 ---
 
