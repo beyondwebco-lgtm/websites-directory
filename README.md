@@ -4,10 +4,7 @@
 4. [beyondwebco](https://beyondwebco-xi.vercel.app)
 5. [pavani](https://pavanistudios.shop)
 6. [v-rfoodtech](https://v-rfoodtech.vercel.app)
-7. [rackonrent-homepage](https://rackonrent-homepage.vercel.app)
-8. [racksonrent-project-bakery-shop](https://racksonrent-project-bakery-shop.vercel.app)
-9. [racksonrent-petrolbunk](https://racksonrent-petrolbunk.vercel.app)
-10. [racksonrent](https://racksonrent.vercel.app)
+
 11. [sri-shiva-sai-physiotherapy](https://sri-shiva-sai-physiotherapy.vercel.app)
 12. [houseofnayu](https://houseofnayu.vercel.app)
 13. [white-edge-kolkata](https://white-edge-kolkata.vercel.app)
@@ -16,9 +13,9 @@
 16. [nactura-spices-new](https://nacturaspices.beyondwebco.com)
 17. [patte-patries](https://patte-patries.vercel.app)
 18. [hayagriva](https://hayagriva-seven.vercel.app)
-19. [sr-foodtech](https://sr-foodtech.vercel.app)
+
 20. [forenmed-advisory](https://forenmed-advisory.vercel.app)
-21. [opla-rx](https://opla-rx.vercel.app)
+
 22. [pkassociates](https://pkassociates.vercel.app)
 23. [nactura-spices-premium](https://nactura-spices-premium.vercel.app)
 24. [swami-enterprise](https://swami-enterprise.vercel.app)
@@ -29,7 +26,7 @@
 29. [peram-brothers-car-travels](https://peram-brothers-car-travels.vercel.app)
 30. [travel-agency-2](https://voyara.beyondwebco.com)
 31. [travel-agency-1](https://roadvista.beyondwebco.com)
-32. [arun](https://arun-livid.vercel.app)
+
 33. [soda-limes](https://sodalimes.beyondwebco.com)
 34. [luxstep-ai](https://luxstep-ai.vercel.app)
 35. [italia](https://italia-chi.vercel.app)
@@ -37,7 +34,7 @@
 37. [makhana](https://makhana-iota.vercel.app)
 38. [nikhavariety](https://nikhavariety.vercel.app)
 39. [claw-glaw](https://claw-glaw.vercel.app)
-40. [task-board](https://task-board-iota-nine.vercel.app)
+
 41. [interactive-3d-agency](https://interactive-3d-agency.vercel.app)
 42. [aesthetic-magazine](https://aesthetic-magazine.vercel.app)
 43. [volta-3d-beverage](https://volta.beyondwebco.com)
