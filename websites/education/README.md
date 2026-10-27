@@ -1,9 +1,9 @@
 # Education Websites
 
-This category index is populated from verified project documentation.
+Documented Beyond Webco projects in this category.
 
 | Website | Deployment URL | Description | Documentation |
 | --- | --- | --- | --- |
-| _Project records will be listed here._ |  |  |  |
+| Hayagriva Civil Academy | https://hayagriva-seven.vercel.app | Civil-services preparation platform for UPSC, KPSC, State PSC, and government jobs. | [Details](hayagriva-civil-academy.md) |
 
 [Back to Website Categories](../README.md) | [Back to Master Directory](../../README.md)
