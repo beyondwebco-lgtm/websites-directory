@@ -1,9 +1,9 @@
 # Hospitality Websites
 
-This category index is populated from verified project documentation.
+Documented Beyond Webco projects in this category.
 
 | Website | Deployment URL | Description | Documentation |
 | --- | --- | --- | --- |
-| _Project records will be listed here._ |  |  |  |
+| Italia Cafe | https://italia-chi.vercel.app | Gachibowli Italian cafe serving artisan coffee, pasta, wood-fired pizza, and Italian cuisine. | [Details](italia-cafe.md) |
 
 [Back to Website Categories](../README.md) | [Back to Master Directory](../../README.md)
