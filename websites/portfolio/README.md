@@ -1,9 +1,9 @@
 # Portfolio Websites
 
-This category index is populated from verified project documentation.
+Documented Beyond Webco projects in this category.
 
 | Website | Deployment URL | Description | Documentation |
 | --- | --- | --- | --- |
-| _Project records will be listed here._ |  |  |  |
+| Pavani Studios | https://pavanistudios.shop | Luxury wedding, maternity, newborn, and portrait photography studio in Telangana. | [Details](pavani-studios.md) |
 
 [Back to Website Categories](../README.md) | [Back to Master Directory](../../README.md)
