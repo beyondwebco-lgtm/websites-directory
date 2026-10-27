@@ -1,9 +1,9 @@
 # Healthcare Websites
 
-This category index is populated from verified project documentation.
+Documented Beyond Webco projects in this category.
 
 | Website | Deployment URL | Description | Documentation |
 | --- | --- | --- | --- |
-| _Project records will be listed here._ |  |  |  |
+| Sri Shiva Sai Physiotherapy | https://sri-shiva-sai-physiotherapy.vercel.app | Physiotherapy and chiropractic clinic for orthopaedics, back pain, and sports rehabilitation. | [Details](sri-shiva-sai-physiotherapy.md) |
 
 [Back to Website Categories](../README.md) | [Back to Master Directory](../../README.md)
