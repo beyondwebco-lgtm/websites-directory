@@ -1,147 +1,70 @@
-1. [pure-foods](https://pure-foods.vercel.app)
-   - **Category:** Food & Beverage Manufacturing
-   - **About:** A Navi Mumbai B2B beverage manufacturer offering formulation, processing, filling, and packaging.
+# Beyond Webco — Website Directory
 
-2. [cibl](https://cibl.vercel.app)
-   - **Category:** Financial Services
-   - **About:** Credit-health guidance for understanding, managing, and improving credit profiles.
+A documentation-only master directory of websites developed by Beyond Webco. It centralizes verified deployment references, concise project summaries, and per-project documentation without copying website source code.
 
-3. [velocity-marketing](https://velocity-marketing-liart.vercel.app)
-   - **Category:** Marketing Agency
-   - **About:** BTL marketing, retail execution, brand activations, events, and field campaigns across India.
+## Directory summary
 
-4. [beyondwebco](https://beyondwebco-xi.vercel.app)
-   - **Category:** Digital Agency
-   - **About:** A studio creating fast, SEO-focused websites and web apps designed to convert visitors.
+- **Documented websites:** 35
+- **Active categories:** 8
+- **Project documentation:** [Browse all categories](websites/README.md)
+- **Detailed project notes:** [Site catalog](site-catalog.md)
+- **Repository inventory:** [GitHub repository inventory](github-repositories-inventory-2026-10-27.md)
 
-5. [pavani](https://pavanistudios.shop)
-   - **Category:** Photography
-   - **About:** Luxury wedding, maternity, newborn, and portrait photography studio serving Telangana.
+## Quick navigation
 
-6. [v-rfoodtech](https://v-rfoodtech.vercel.app)
-   - **Category:** Food Technology Consultancy
-   - **About:** Food, beverage, and nutraceutical product development, processing plants, and compliance support.
+- [Business Websites](websites/business/README.md) — 12 projects
+- [E-commerce & Product Catalogues](websites/ecommerce/README.md) — 11 projects
+- [Education Websites](websites/education/README.md) — 1 projects
+- [Healthcare Websites](websites/healthcare/README.md) — 1 projects
+- [Hospitality Websites](websites/hospitality/README.md) — 1 projects
+- [Portfolio Websites](websites/portfolio/README.md) — 1 projects
+- [Real Estate Websites](websites/real-estate/README.md) — 3 projects
+- [Other Websites](websites/other/README.md) — 5 projects
 
-11. [sri-shiva-sai-physiotherapy](https://sri-shiva-sai-physiotherapy.vercel.app)
-   - **Category:** Healthcare
-   - **About:** Hyderabad physiotherapy and chiropractic clinic focused on orthopaedics, back pain, and sports rehabilitation.
+## Master website index
 
-12. [houseofnayu](https://houseofnayu.vercel.app)
-   - **Category:** Fashion & Textiles
-   - **About:** Luxury handloom sarees custom-woven by Indian master artisans.
+| # | Website / Project | Deployment URL | Category | Short Description | Details |
+| ---: | --- | --- | --- | --- | --- |
+| 3 | Beyond Webco | https://beyondwebco-xi.vercel.app | Business | A digital-agency website for fast, SEO-focused websites and web applications. | [Details](websites/business/beyondwebco.md) |
+| 1 | CIBL | https://cibl.vercel.app | Business | Credit-health guidance for understanding, managing, and improving credit profiles. | [Details](websites/business/cibl.md) |
+| 7 | Forenmed Advisory | https://forenmed-advisory.vercel.app | Business | Medicolegal consultancy for forensic medicine, medical documentation, and compliance. | [Details](websites/business/forenmed-advisory.md) |
+| 12 | Interactive 3D Agency | https://interactive-3d-agency.vercel.app | Business | Interactive 3D agency landing-page preview with limited descriptive content. | [Details](websites/business/interactive-3d-agency.md) |
+| 8 | PK Associates | https://pkassociates.vercel.app | Business | Accounting, taxation, payroll, compliance, and outsourced finance services. | [Details](websites/business/pkassociates.md) |
+| 10 | Radhe India | https://radhe-india.vercel.app | Business | International trade, global sourcing, industrial supply, manufacturing, and e-commerce solutions. | [Details](websites/business/radhe-india.md) |
+| 9 | Swami Enterprise | https://swami-enterprise.vercel.app | Business | Personal and business advisory for investments, insurance, borrowing, and tax compliance. | [Details](websites/business/swami-enterprise.md) |
+| 2 | Velocity Marketing | https://velocity-marketing-liart.vercel.app | Business | BTL marketing, retail execution, brand activations, events, and field campaigns across India. | [Details](websites/business/velocity-marketing.md) |
+| 5 | Vendo Nexa | https://vendo-nexa.vercel.app | Business | Vendor and hospital management systems with VAPT and SOC cybersecurity services. | [Details](websites/business/vendo-nexa.md) |
+| 6 | VR Foodtech | https://v-rfoodtech.vercel.app | Business | Food, beverage, and nutraceutical product-development and processing consultancy. | [Details](websites/business/vr-foodtech.md) |
+| 4 | White Edge Kolkata | https://white-edge-kolkata.vercel.app | Business | Commercial signage, architectural branding, fabrication, installation, and maintenance. | [Details](websites/business/white-edge-kolkata.md) |
+| 11 | Zilogicx | https://zilogicx.vercel.app | Business | A delivery platform for fulfilment, returns, exchanges, and refunds. | [Details](websites/business/zilogicx.md) |
+| 22 | Claw Glaw | https://claw-glaw.vercel.app | E-commerce & Product Catalogues | Luxury nail-studio website for custom nail art, extensions, acrylics, and bridal designs. | [Details](websites/ecommerce/claw-glaw.md) |
+| 14 | House of Nayu | https://houseofnayu.vercel.app | E-commerce & Product Catalogues | Luxury handloom saree brand showcasing custom-woven Indian textiles. | [Details](websites/ecommerce/houseofnayu.md) |
+| 19 | Luxstep AI | https://luxstep-ai.vercel.app | E-commerce & Product Catalogues | Luxury footwear shopping with AI try-on, 3D visualisation, and outfit matching. | [Details](websites/ecommerce/luxstep-ai.md) |
+| 20 | Makhana | https://makhana-iota.vercel.app | E-commerce & Product Catalogues | Premium roasted, high-protein, gluten-free makhana snacks in multiple flavours. | [Details](websites/ecommerce/makhana.md) |
+| 15 | Nactura Spices New | https://nacturaspices.beyondwebco.com | E-commerce & Product Catalogues | Premium natural spices and dry fruits sourced from Idukki. | [Details](websites/ecommerce/nactura-spices-new.md) |
+| 16 | Nactura Spices Premium | https://nactura-spices-premium.vercel.app | E-commerce & Product Catalogues | Premium natural spices and dry fruits brand centred on handpicked Idukki products. | [Details](websites/ecommerce/nactura-spices-premium.md) |
+| 21 | Nikha Variety | https://nikhavariety.vercel.app | E-commerce & Product Catalogues | Personalised gifts, Nikah keepsakes, frames, memory boards, and luxury hampers. | [Details](websites/ecommerce/nikhavariety.md) |
+| 17 | Patte Patries | https://patte-patries.vercel.app | E-commerce & Product Catalogues | Small-batch handcrafted eggless cakes, cookies, chocolates, and desserts. | [Details](websites/ecommerce/patte-patries.md) |
+| 13 | Pure Foods | https://pure-foods.vercel.app | E-commerce & Product Catalogues | B2B beverage-manufacturing website covering formulation, processing, filling, and packaging. | [Details](websites/ecommerce/pure-foods.md) |
+| 18 | Soda Limes | https://sodalimes.beyondwebco.com | E-commerce & Product Catalogues | Zero-sugar diet soda brand focused on crisp, low-calorie refreshment. | [Details](websites/ecommerce/soda-limes.md) |
+| 23 | Volta 3D Beverage | https://volta.beyondwebco.com | E-commerce & Product Catalogues | Interactive 3D showcase for energy drinks and zero-sugar cola. | [Details](websites/ecommerce/volta-3d-beverage.md) |
+| 24 | Hayagriva Civil Academy | https://hayagriva-seven.vercel.app | Education | Civil-services preparation platform for UPSC, KPSC, State PSC, and government jobs. | [Details](websites/education/hayagriva-civil-academy.md) |
+| 25 | Sri Shiva Sai Physiotherapy | https://sri-shiva-sai-physiotherapy.vercel.app | Healthcare | Physiotherapy and chiropractic clinic for orthopaedics, back pain, and sports rehabilitation. | [Details](websites/healthcare/sri-shiva-sai-physiotherapy.md) |
+| 26 | Italia Cafe | https://italia-chi.vercel.app | Hospitality | Gachibowli Italian cafe serving artisan coffee, pasta, wood-fired pizza, and Italian cuisine. | [Details](websites/hospitality/italia-cafe.md) |
+| 27 | Pavani Studios | https://pavanistudios.shop | Portfolio | Luxury wedding, maternity, newborn, and portrait photography studio in Telangana. | [Details](websites/portfolio/pavani-studios.md) |
+| 33 | Aura Luxe Interior Design | https://aura-luxe-interior-design.vercel.app | Real Estate | Ultra-luxury residential and commercial architecture studio. | [Details](websites/real-estate/aura-luxe-interior-design.md) |
+| 34 | Only Space Realty | https://only-space-realty.vercel.app | Real Estate | West Ahmedabad property consultancy and investor advisory. | [Details](websites/real-estate/only-space-realty.md) |
+| 35 | Vega Towers | https://vega-towers.vercel.app | Real Estate | Gandipet luxury-residence and private-sales showcase. | [Details](websites/real-estate/vega-towers.md) |
+| 31 | Aesthetic Magazine | https://aesthetic-magazine.vercel.app | Other | Luxury digital magazine covering fashion, beauty, cottagecore, quiet luxury, and mood boards. | [Details](websites/other/aesthetic-magazine.md) |
+| 28 | Peram Brothers Car Travels | https://peram-brothers-car-travels.vercel.app | Other | 24/7 cab service for local, airport, one-way, and outstation travel. | [Details](websites/other/peram-brothers-car-travels.md) |
+| 30 | Roadvista | https://roadvista.beyondwebco.com | Other | Hyderabad-based chauffeur-driven intercity travel for tours, business trips, and getaways. | [Details](websites/other/roadvista.md) |
+| 32 | Sri Lakshmi Automobiles | https://sri-lakshmi-automobiles.vercel.app | Other | Authorised Mahindra tractor dealer offering sales, service, parts, and implements. | [Details](websites/other/sri-lakshmi-automobiles.md) |
+| 29 | Voyara | https://voyara.beyondwebco.com | Other | Curated premium domestic tours across India, based in Hyderabad. | [Details](websites/other/voyara.md) |
 
-13. [white-edge-kolkata](https://white-edge-kolkata.vercel.app)
-   - **Category:** Signage & Branding
-   - **About:** Custom commercial signage, architectural branding, fabrication, installation, and maintenance.
+## Maintenance
 
-14. [vendo-nexa](https://vendo-nexa.vercel.app)
-   - **Category:** Enterprise Software & Cybersecurity
-   - **About:** Vendor and hospital management systems alongside VAPT and SOC cybersecurity services.
+When adding or updating a project, follow [CONTRIBUTING.md](CONTRIBUTING.md) and start with the [website documentation template](templates/website-template.md). Use confirmed information only; mark missing details as `Not documented`.
 
-15. [vegas-towers](https://vegas-towers.vercel.app)
-   - **Category:** Unavailable
-   - **About:** The deployment currently returns a 404 error.
+## Scope
 
-16. [nactura-spices-new](https://nacturaspices.beyondwebco.com)
-   - **Category:** Food & Beverage Retail
-   - **About:** Premium natural spices and dry fruits sourced from Idukki.
-
-17. [patte-patries](https://patte-patries.vercel.app)
-   - **Category:** Bakery & Confectionery
-   - **About:** Small-batch, handcrafted eggless cakes, cookies, chocolates, and desserts.
-
-18. [hayagriva](https://hayagriva-seven.vercel.app)
-   - **Category:** Education
-   - **About:** Coaching for UPSC, KPSC, State PSC, and other government-job examinations.
-
-20. [forenmed-advisory](https://forenmed-advisory.vercel.app)
-   - **Category:** Medicolegal Consultancy
-   - **About:** Forensic medicine, medical documentation, and healthcare legal-compliance advisory services.
-
-22. [pkassociates](https://pkassociates.vercel.app)
-   - **Category:** Accounting & Tax
-   - **About:** Accounting, taxation, payroll, compliance, and outsourced finance for global businesses.
-
-23. [nactura-spices-premium](https://nactura-spices-premium.vercel.app)
-   - **Category:** Food & Beverage Retail
-   - **About:** A premium spices and dry-fruits brand centred on natural, handpicked Idukki products.
-
-24. [swami-enterprise](https://swami-enterprise.vercel.app)
-   - **Category:** Financial Advisory
-   - **About:** Personal and business advice for investments, insurance, borrowing, and tax compliance.
-
-25. [radhe-india](https://radhe-india.vercel.app)
-   - **Category:** Import, Export & Manufacturing
-   - **About:** International trade, global sourcing, industrial supply, manufacturing, and e-commerce solutions.
-
-26. [only-space-realty](https://only-space-realty.vercel.app)
-   - **Category:** Real Estate
-   - **About:** Ahmedabad consultancy for buying, selling, and investing in premium residential and commercial property.
-
-27. [zilogicx](https://zilogicx.vercel.app)
-   - **Category:** Logistics Technology
-   - **About:** A 24-hour delivery platform for fulfilment, returns, exchanges, and refunds.
-
-28. [aura-luxe-interior-design](https://aura-luxe-interior-design.vercel.app)
-   - **Category:** Architecture & Interior Design
-   - **About:** Ultra-luxury residential and commercial architecture and interior-design studio.
-
-29. [peram-brothers-car-travels](https://peram-brothers-car-travels.vercel.app)
-   - **Category:** Travel & Transport
-   - **About:** 24/7 cab service for local, airport, one-way, and outstation travel from Vijayawada and Guntur.
-
-30. [travel-agency-2](https://voyara.beyondwebco.com)
-   - **Category:** Travel Agency
-   - **About:** Curated premium domestic tours across India, based in Hyderabad.
-
-31. [travel-agency-1](https://roadvista.beyondwebco.com)
-   - **Category:** Travel Agency
-   - **About:** Hyderabad-based chauffeur-driven intercity travel for tours, business trips, and getaways.
-
-33. [soda-limes](https://sodalimes.beyondwebco.com)
-   - **Category:** Beverage Brand
-   - **About:** A zero-sugar diet soda brand focused on crisp, low-calorie refreshment.
-
-34. [luxstep-ai](https://luxstep-ai.vercel.app)
-   - **Category:** Fashion Technology
-   - **About:** Luxury footwear shopping with AI try-on, 3D visualisation, and outfit matching.
-
-35. [italia](https://italia-chi.vercel.app)
-   - **Category:** Restaurant & Café
-   - **About:** A Gachibowli Italian café serving artisan coffee, pasta, wood-fired pizza, and Italian cuisine.
-
-36. [vega-towers](https://vega-towers.vercel.app)
-   - **Category:** Real Estate
-   - **About:** Ultra-luxury lake-view residences and private sky duplexes in Gandipet, Hyderabad.
-
-37. [makhana](https://makhana-iota.vercel.app)
-   - **Category:** Healthy Snacks
-   - **About:** Premium roasted, high-protein, gluten-free makhana snacks in multiple flavours.
-
-38. [nikhavariety](https://nikhavariety.vercel.app)
-   - **Category:** Custom Gifts & Wedding Accessories
-   - **About:** Personalised gifts, Nikah keepsakes, frames, memory boards, and luxury hampers.
-
-39. [claw-glaw](https://claw-glaw.vercel.app)
-   - **Category:** Beauty & Wellness
-   - **About:** Chennai luxury nail studio for custom nail art, extensions, acrylics, and bridal designs.
-
-41. [interactive-3d-agency](https://interactive-3d-agency.vercel.app)
-   - **Category:** 3D Digital Experience
-   - **About:** An interactive 3D agency landing-page preview; the live site exposes minimal descriptive content.
-
-42. [aesthetic-magazine](https://aesthetic-magazine.vercel.app)
-   - **Category:** Digital Magazine
-   - **About:** A luxury digital magazine on fashion, beauty, cottagecore, quiet luxury, and mood boards.
-
-43. [volta-3d-beverage](https://volta.beyondwebco.com)
-   - **Category:** Beverage Brand
-   - **About:** An interactive 3D showcase for VOLTA energy drinks and zero-sugar cola.
-
-44. [soda-lime](https://soda-lime.vercel.app)
-   - **Category:** Unavailable
-   - **About:** The deployment currently returns a 404 error.
-
-45. [sri-lakshmi-automobiles](https://sri-lakshmi-automobiles.vercel.app)
-   - **Category:** Automotive & Agriculture
-   - **About:** Authorised Mahindra tractor dealer in Wyra offering sales, service, parts, and implements.
+This repository documents project references only. It does not contain individual website source code, dependencies, build artifacts, credentials, or client-private assets.
